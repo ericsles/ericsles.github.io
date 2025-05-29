@@ -1,11 +1,9 @@
----
-title: Eric Slesinger
----
-# 
+
+
 ## Eric Slesinger
 
 ### What I do now
-##
+
 #### [**201 Ventures**](https://201.vc/)
 I'm the General Partner of 201 Ventures, an early stage venture capital firm. We back founders that are advancing freedom and autonomy in Europe.
 
@@ -14,10 +12,10 @@ A network to organize, educate, and motivate investors in Europe to invest more 
 
 #### [**Writing**](https://medium.com/@ericsles)
 I write about technology, investing in the national interest, and public service.
-##
+
 
 ### What I did before
-##
+
 #### Europe + deep tech investing
 Invested at Mundi Ventures and briefly at In-Q-Tel, mostly in European and national security technology companies, respectively. 
 
@@ -32,7 +30,6 @@ I work with my hands to design and build new products. Still do this, offline.
 
 
 
-#
 [LinkedIn](https://www.linkedin.com/in/ericslesinger/)
 [Twitter](https://twitter.com/ericsles)
 
